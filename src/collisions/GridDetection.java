@@ -7,8 +7,6 @@ import java.util.stream.Stream;
 
 /** Detection algorithms using a grid-based broad phase.
  * 
- * @author Marco Faella
- * @version 1.0
  */
 public class GridDetection {
 

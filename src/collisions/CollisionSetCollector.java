@@ -5,8 +5,6 @@ import java.util.stream.Collector;
 
 /** A non-concurrent collector for a stream of Boxes,
  * 	returning a set of collisions. 
- * 
- *  @author M. Faella
  */
 public class CollisionSetCollector {
 	private ArrayList<Box> cache = new ArrayList<>();

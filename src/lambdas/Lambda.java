@@ -3,7 +3,7 @@ package lambdas;
 import java.util.Comparator;
 import java.util.function.Consumer;
 
-public class Lambda1 {
+public class Lambda {
 
 	@SuppressWarnings("unused")
 	public static void main(String[] args) {
